@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* src/App.css */
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.header {
+  background-color: #f8f9fa;
+}
+
+.hero {
+  text-align: center;
+}
+
+.service-list {
+  list-style-type: none;
+}
+
+.service-list li {
+  transition: transform 0.3s;
+}
+
+.service-list li:hover {
+  transform: scale(1.05);
+}
+
+/* Add more styles and animations as needed */
