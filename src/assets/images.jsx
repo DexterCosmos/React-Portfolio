@@ -20,6 +20,7 @@ import Heroshape1 from './images/hero-shape-1.png';
 import Heroshape2 from './images/hero-shape-2.png';
 import Github from './images/github.svg';
 import resume from './resume/cv.pdf';
+import Desktop from './images/desktop.png';
 
 export default {
     Herobanner,
@@ -44,4 +45,5 @@ export default {
     Heroshape2,
     Github,
     resume,
+    Desktop,
 };
