@@ -15,7 +15,7 @@ const Hero = () => {
                             src={images.Herobanner}
                             width="500"
                             height="680"
-                            alt="Drew Hays"
+                            alt="Nomaan Ansari"
                             className="img-cover"
                         />
 
