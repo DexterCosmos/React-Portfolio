@@ -6,7 +6,7 @@ const projects = [
     id: 1,
     title: "Creative & experienced digital design studio",
     subtitle: "Web, Product",
-    image: "./assets/images/project-1.gif",
+    image: "src/assets/images/project-1.gif",
     alt: "Project poster: Creative & experienced digital design studio",
   },
   {
